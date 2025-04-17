@@ -39,3 +39,8 @@ suggest_title.md
 
 Generate a compelling title that encapsulates the essence of an author's text by analyzing its content, themes, and unique characteristics. Focus on identifying the main idea or central theme while considering tone and style for alignment. The output is one succinct title suggestion that captures the core message without explanation.
 
+## Job Application Assistant
+
+jobapplication_assistant.md
+
+This AI is a job application assistant that analyzes job postings and compares them to a user's resume to provide a detailed fit assessment and score. It then crafts tailored application materials – like cover letters and resume sections – adapting to the specific role and industry, and suggesting improvements for a stronger application. The AI prioritizes clear, concise communication and user confidentiality throughout the process.
