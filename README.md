@@ -2,7 +2,6 @@
 # My Prompt Collection
 
 This repo is a collection of prompts I’ve written to get consistent, high-quality results from LLMs in day-to-day development work. They cover things like generating Doxygen comments for embedded C/C++ code, writing unit tests with a custom test framework, translating technical documentation, and drafting user stories. Each prompt is focused, tested, and structured to work as reliably as possible. Feel free to use, tweak, or build on them—everything's shared under the CC BY 4.0 license.
-![image](https://github.com/user-attachments/assets/b7945fc3-ba6a-4514-aaba-4b1d6b00eab8)
 
 ## Generating Doxygen Documentation for Embedded Software Projects
 
@@ -45,3 +44,8 @@ Generate a compelling title that encapsulates the essence of an author's text by
 jobapplication_assistant.md
 
 This AI is a job application assistant that analyzes job postings and compares them to a user's resume to provide a detailed fit assessment and score. It then crafts tailored application materials – like cover letters and resume sections – adapting to the specific role and industry, and suggesting improvements for a stronger application. The AI prioritizes clear, concise communication and user confidentiality throughout the process.
+
+
+## My LLM Setup 
+![image](https://github.com/user-attachments/assets/b7945fc3-ba6a-4514-aaba-4b1d6b00eab8)
+![image](https://github.com/user-attachments/assets/6207514c-ce31-430f-ae55-d36560b71be8)
