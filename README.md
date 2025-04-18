@@ -45,6 +45,21 @@ jobapplication_assistant.md
 
 This AI is a job application assistant that analyzes job postings and compares them to a user's resume to provide a detailed fit assessment and score. It then crafts tailored application materials – like cover letters and resume sections – adapting to the specific role and industry, and suggesting improvements for a stronger application. The AI prioritizes clear, concise communication and user confidentiality throughout the process.
 
+## Comprehensive Unit Testing Plan for Source Code
+
+recommend_unittests.md
+
+As a unit testing specialist, you are tasked with creating an exhaustive test plan for a specific input source file. This entails developing detailed proposals for each function and macro-like feature within the file, ensuring comprehensive coverage without exception. The goal is to identify potential edge cases, verify functionality against requirements, and assess performance under various conditions. By analyzing every component of the code, you aim to validate correctness, reliability, and maintainability through systematic testing, providing a robust framework for developers during implementation.
+
+## AI-Assisted Test Case Extraction and Stub Generation 
+
+create_unittest_stubs.md
+
+This prompt defines an AI assistant's role in identifying and extracting unique test case names from a given input, then generating output stubs in a strict predefined format. The assistant must wrap the original input in a comment block, output each test case using the MYUNIT_TESTCASE(name){} template, and finally list all test cases in a MYUNIT_TESTSUITE block, ensuring everything remains in plain text and follows precise structural rules.
+
+Combine with "Comprehensive Unit Testing Plan for Source Code" (recommend_unittests.md) for best results.
+
+Example Output : [Uploading myunit_pt.c…]()
 
 ## My LLM Setup 
 ![image](https://github.com/user-attachments/assets/b7945fc3-ba6a-4514-aaba-4b1d6b00eab8)
