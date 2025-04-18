@@ -3,6 +3,9 @@
 
 This repo is a collection of prompts I’ve written to get consistent, high-quality results from LLMs in day-to-day development work. They cover things like generating Doxygen comments for embedded C/C++ code, writing unit tests with a custom test framework, translating technical documentation, and drafting user stories. Each prompt is focused, tested, and structured to work reliably. Feel free to use, tweak, or build on them—everything's shared under the CC BY 4.0 license.
 
+![image](https://github.com/user-attachments/assets/b7945fc3-ba6a-4514-aaba-4b1d6b00eab8)
+
+
 ## Generating Doxygen Documentation for Embedded Software Projects
 
 assistant_doxydoc.md
