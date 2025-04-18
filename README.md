@@ -59,7 +59,6 @@ This prompt defines an AI assistant's role in identifying and extracting unique 
 
 Combine with "Comprehensive Unit Testing Plan for Source Code" (recommend_unittests.md) for best results.
 
-Example Output : [Uploading myunit_pt.c…]()
 
 ## My LLM Setup 
 ![image](https://github.com/user-attachments/assets/b7945fc3-ba6a-4514-aaba-4b1d6b00eab8)
