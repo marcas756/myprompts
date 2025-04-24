@@ -62,4 +62,5 @@ Combine with "Comprehensive Unit Testing Plan for Source Code" (recommend_unitte
 
 ## My LLM Setup 
 ![image](https://github.com/user-attachments/assets/cd065623-c8db-4e54-9b45-ed89e1290cfd)
-![image](https://github.com/user-attachments/assets/6207514c-ce31-430f-ae55-d36560b71be8)
+![image](https://github.com/user-attachments/assets/a415356b-238f-4cd5-9735-8eb0f469339a)
+
